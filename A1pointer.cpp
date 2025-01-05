@@ -9,6 +9,6 @@ int main()
     int *p;
     p = &a;
     
-    cout << p << endl;
+    cout << *p << endl;
     return 0;
 }
