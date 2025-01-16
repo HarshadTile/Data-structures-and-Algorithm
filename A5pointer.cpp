@@ -22,7 +22,7 @@ int main(){
     (*p).length = 40;
     (*p).breadth = 50;
 
-    cout << "Using Pointer" << endl;
+    cout << p << endl;
 
     return 0;
 }
