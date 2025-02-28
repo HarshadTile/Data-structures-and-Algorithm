@@ -1,6 +1,6 @@
 class NumberOfSteps {
 
-    public int numberOfSteps(int num) {
+    static int numberOfSteps(int num) {
 
         return helper(num,0);
 
