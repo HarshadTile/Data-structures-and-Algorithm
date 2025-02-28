@@ -23,7 +23,7 @@ int NCR(int n,int r){
 }
 
 int main(){
-    printf("%d",nCr(4,2));
+    printf("%d\n",nCr(4,2));
     printf("%d",NCR(4,2));
     return 0;
 }
